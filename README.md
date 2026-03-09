@@ -3,7 +3,7 @@
 
 <head>
 
-<title>My Portfolio</title>
+<title>My Portfolio</title> 
 
 <link rel="stylesheet" href="style.css">
 
